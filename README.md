@@ -14,7 +14,6 @@ Robust testing to ensure accurate and reliable conversions.
 Compatibility with both Python 2 and Python 3 versions for wider accessibility.
 # Technical-Specifications
 The application will be developed using Python programming language.
-The Tkinter library will be utilized for creating the graphical user interface (GUI) for user interaction.
 The conversion formulas will be implemented using the appropriate mathematical operations for accurate results.
 Error handling will be integrated using appropriate exception handling techniques.
 The program will include comprehensive comments and documentation to facilitate easy understanding and future modifications.
